@@ -1,0 +1,10 @@
+- 👋 Hi, my nickname is SuegaHub.
+- 👀 I’m interested in creating discord bots and coding.
+- 🌱 I’m currently learning Python, C++, PHP, Notepad++ and Javascript.
+- 💞️ I'm creating useful and fun discord bots
+- 📫 Email: Hakiide085@gmail.com
+- 🐋 Discord bots I've created: Spongebot
+- 🐳 Social Medias: **Coming soon**
+- SuegaHub has a ✨ special ✨ experience with coding.
+- I am a begginer.
+- But I'm learning a lot of languages by the start!
